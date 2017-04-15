@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\app\\asproject\\TopicBankEx\\TopicBankEx\\build\\intermediates\\res\\merged\\release\\transition\\activity_fade.xml",
+        "source": "D:\\app\\asproject\\TopicBankEx\\TopicBankEx\\src\\main\\res\\transition\\activity_fade.xml"
+    },
+    {
+        "merged": "D:\\app\\asproject\\TopicBankEx\\TopicBankEx\\build\\intermediates\\res\\merged\\release\\transition\\activity_slide.xml",
+        "source": "D:\\app\\asproject\\TopicBankEx\\TopicBankEx\\src\\main\\res\\transition\\activity_slide.xml"
+    }
+]

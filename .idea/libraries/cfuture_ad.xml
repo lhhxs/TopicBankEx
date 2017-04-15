@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cfuture-ad">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TopicBankEx/libs/cfuture-ad.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cfuture-core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TopicBankEx/libs/cfuture-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

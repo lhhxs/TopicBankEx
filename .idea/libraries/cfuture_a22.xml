@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cfuture-a22">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TopicBankEx/libs/cfuture-a22.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

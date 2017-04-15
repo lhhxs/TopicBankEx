@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\app\asproject\TopicBankEx\test\libs\httpmime-4.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="118ae1bc7f3aeeddfe564f0edfd79c11d09d17d1">
+        <dex dex="D:\app\asproject\TopicBankEx\test\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.2.3_17458e373ea13ff2097813698c24f151e1c1ee7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\app\asproject\TopicBankEx\test\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fba0c0ed2fe4e4b15b9b04c12a0ce1c55501c362">
+        <dex dex="D:\app\asproject\TopicBankEx\test\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2b3c4b5a53c240a057552e54b9a33a73580d75ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\app\asproject\TopicBankEx\test\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\app\asproject\TopicBankEx\test\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e3db645e4f0dd95c68769e684a3f98af15324dab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.2.0\a09926806199499a20b2f5168779499abfa33342\converter-gson-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="D:\app\asproject\TopicBankEx\test\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.2.0_52819fbe07222375fcab10d9648981e495670a4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.2.0\d80514b6f44f0c4c6234e2d67fea783a25e77275\adapter-rxjava-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d80514b6f44f0c4c6234e2d67fea783a25e77275">
+        <dex dex="D:\app\asproject\TopicBankEx\test\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.2.0_0da168c1b6a3358392ec0ba8c491b0a394f691e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\app\asproject\TopicBankEx\test\libs\ksoap2-android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8ddd5d69d8cdc994cde9af278ff79b06365eee3">
+        <dex dex="D:\app\asproject\TopicBankEx\test\build\intermediates\transforms\dex\debug\folders\1000\2\ksoap2-android_3e2fe302611e4a1a44a3e691648fa78779ea69d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\app\asproject\TopicBankEx\TopicBankEx\libs\cfuture-a22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b74dc03b8b6f60080350d3a91dff0b8dcc5c77d8">
+        <dex dex="D:\app\asproject\TopicBankEx\TopicBankEx\build\intermediates\pre-dexed\release\cfuture-a22_df303ee56875c9d171fdf556140cde80c8add154.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\app\asproject\TopicBankEx\TopicBankEx\libs\cfuture-a16.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12ca85fd98ec2e6a19cf6619c5bb1c54d2fa8e98">
+        <dex dex="D:\app\asproject\TopicBankEx\TopicBankEx\build\intermediates\pre-dexed\release\cfuture-a16_a85c4753164b0e5087aacc0d87647c760758b4ad.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\app\asproject\TopicBankEx\TopicBankEx\libs\cfuture-a16.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12ca85fd98ec2e6a19cf6619c5bb1c54d2fa8e98">
+        <dex dex="D:\app\asproject\TopicBankEx\TopicBankEx\build\intermediates\transforms\dex\debug\folders\1000\2\cfuture-a16_a85c4753164b0e5087aacc0d87647c760758b4ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="D:\app\asproject\TopicBankEx\test\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.2.0_6f046f166da1cf19a80abeadfa0c2fa76afc52d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\app\asproject\TopicBankEx\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d12e173a36f5a9d20d6c01b2562d14d98ee5e2be">
+        <dex dex="D:\app\asproject\TopicBankEx\TopicBankEx\build\intermediates\pre-dexed\release\classes_64cfaabae01821be851f91ad0b2349e9d8fcea3a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\app\asproject\TopicBankEx\test\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="D:\app\asproject\TopicBankEx\test\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_826c5ff3d659d6d60e40f5ebd842c3402ee2054e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\app\asproject\TopicBankEx\TopicBankEx\libs\cfuture-ad.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="364ce20cd2c63199d285351633e20149f2d06cd0">
+        <dex dex="D:\app\asproject\TopicBankEx\TopicBankEx\build\intermediates\transforms\dex\debug\folders\1000\2\cfuture-ad_2a2541db0f0b80ba61221dae6286335a7e951b6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\app\asproject\TopicBankEx\test\libs\HitownSDK_20160628.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bbea38c13d233b54671bd37e47fd384b0a546427">
+        <dex dex="D:\app\asproject\TopicBankEx\test\build\intermediates\transforms\dex\debug\folders\1000\2\HitownSDK_20160628_98add39e884a37e1fafa06d28aeede23731e66a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\app\asproject\TopicBankEx\TopicBankEx\libs\cfuture-core.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbb6ddca651653dfb02feda6dc77c6f1ae3b418d">
+        <dex dex="D:\app\asproject\TopicBankEx\TopicBankEx\build\intermediates\transforms\dex\debug\folders\1000\2\cfuture-core_fe8fa1016ee6e65b4d996fb9fea32c629b52a80d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\app\asproject\TopicBankEx\TopicBankEx\libs\cfuture-core.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbb6ddca651653dfb02feda6dc77c6f1ae3b418d">
+        <dex dex="D:\app\asproject\TopicBankEx\TopicBankEx\build\intermediates\pre-dexed\release\cfuture-core_fe8fa1016ee6e65b4d996fb9fea32c629b52a80d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\app\asproject\TopicBankEx\TopicBankEx\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\app\asproject\TopicBankEx\TopicBankEx\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_80472d473cd6096642c77350b85379aa7c460ea9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\app\asproject\TopicBankEx\TopicBankEx\libs\cfuture-a22.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b74dc03b8b6f60080350d3a91dff0b8dcc5c77d8">
+        <dex dex="D:\app\asproject\TopicBankEx\TopicBankEx\build\intermediates\transforms\dex\debug\folders\1000\2\cfuture-a22_df303ee56875c9d171fdf556140cde80c8add154\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.2.9\cc0d879e3c75fe106aed3651fbdaebe628ac67ef\rxjava-1.2.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc0d879e3c75fe106aed3651fbdaebe628ac67ef">
+        <dex dex="D:\app\asproject\TopicBankEx\test\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.2.9_b11cc64a3e046e902d7a1fcc09d4038ee624cab8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="D:\app\asproject\TopicBankEx\test\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.11.0_cc6c7db8003066de78d659d964240d73d3d1c6ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\app\asproject\TopicBankEx\test\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.6.0_b20e5120c8e530b8c38241f51e0683302dc57a31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\.android\build-cache\8a8d4749a244b499707cda47b6ba88636b6e3f45\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="D:\app\asproject\TopicBankEx\test\build\intermediates\transforms\dex\debug\folders\1000\10\classes_40daf89ca909b6ddc3b4c579ea0fd75f3f8c5e5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\app\asproject\TopicBankEx\TopicBankEx\libs\cfuture-ad.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="364ce20cd2c63199d285351633e20149f2d06cd0">
+        <dex dex="D:\app\asproject\TopicBankEx\TopicBankEx\build\intermediates\pre-dexed\release\cfuture-ad_2a2541db0f0b80ba61221dae6286335a7e951b6f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\app\asproject\TopicBankEx\TopicBankEx\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d88ba48b201feecf3f1e91017d0af2b82dc1ef4f">
+        <dex dex="D:\app\asproject\TopicBankEx\TopicBankEx\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2d294192bb4af8878d189cb570946c26399e20d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\app\asproject\TopicBankEx\test\libs\jackson-all-1.7.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="388cd6825ee4686a6a00b7c145ec92f84133e031">
+        <dex dex="D:\app\asproject\TopicBankEx\test\build\intermediates\transforms\dex\debug\folders\1000\2\jackson-all-1.7.6_2ac54695083c86e4abf09728b94a32a881716018\classes.dex" />
+    </item>
+
+</items>

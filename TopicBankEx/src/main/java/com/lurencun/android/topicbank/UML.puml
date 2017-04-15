@@ -1,0 +1,75 @@
+@startuml
+class AnswerEntity
+class CategoryEntity
+class HistoryEntity
+class MenuEntity
+class ResultEntity
+class TopicEntity
+class AnswerEntity implements Serializable{
+	private static final long serialVersionUID = 4161991966494138482L;
+	public String content;
+	public boolean isCurrent;
+	public boolean isChecked;
+}
+class CategoryEntity {
+	public boolean isFinish;
+	public String title;
+	public String describe;
+	public int id;
+	public int tiku;
+	public int danxuanshu;
+	public int danxuanfen;
+	public int duoxuanshu;
+	public int duoxuanfen;
+	public int panduanshu;
+	public int panduanfen;
+	public int daojishi;
+	}
+ class HistoryEntity {
+    	private final static String SCORE_TIP = "得分：%d";
+    	private final static String CORRECT_TIP = "正确：%d";
+    	private final static String MISTAKE_TIP = "错误：%d";
+
+    	private String title;
+    	private int topic;
+    	private long time;
+    	private int score;
+    	private int correct;
+    	private int mistake;
+    	private int zongshu;
+    	private long shijian;
+
+    }
+class MenuEntity {
+	public Class<?> nextUI;
+	public Bitmap icon;
+	public int value;
+	public String title;
+}
+ class ResultEntity {
+	public String kind;
+	public int id;
+	public String title;
+	public String summary;
+}
+class TopicEntity implements Serializable {
+	private static final long serialVersionUID = -1003208444546289165L;
+	public TopicEntity(){ /*Required empty bean constructor*/ }
+	public enum TopicType{
+		SINGLE_CHOICE,
+		MULTIPLE_CHOICE,
+		JUDGE
+	};
+	public int index;
+	public int id;
+	public TopicType type;
+	public String title;
+	public String image;
+	public String tip;
+	public int isdo;
+	public List<AnswerEntity> answers
+	public boolean isture;
+}
+
+TopicEntity <|--AnswerEntity
+@enduml
