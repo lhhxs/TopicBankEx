@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="ksoap2-android">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/test/libs/ksoap2-android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plsExam/libs/ksoap2-android.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

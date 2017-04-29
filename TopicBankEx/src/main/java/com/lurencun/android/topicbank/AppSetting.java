@@ -5,8 +5,12 @@ package com.lurencun.android.topicbank;
 
 import android.content.Context;
 import android.os.Environment;
+import android.util.Log;
 
 import com.lurencun.android.topicbank.entity.AnswerEntity;
+
+import org.json.JSONArray;
+import org.json.JSONException;
 
 import java.util.List;
 
@@ -156,6 +160,23 @@ public final class AppSetting {
 		System.out.println("timeCount=" + timeCount);
 		return timeCount;
 		
+	}
+	/**
+	 * 将json数组转化为String型
+	 * @param str
+	 * @return
+	 * @throws JSONException
+	 */
+	public static String[] getJsonToStringArray(String str) throws JSONException {
+		if(null == str||str.length()<=0){return new String[]{"此题录入问题没有答案选项"};  }
+
+		JSONArray jsonArray = new JSONArray(str);
+		String[] arr=new String[jsonArray.length()];
+		for(int i=0;i<jsonArray.length();i++){
+			arr[i]=jsonArray.getString(i);
+			Log.e("TAG",arr[i]);
+		}
+		return arr;
 	}
 	
 }

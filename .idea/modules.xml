@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/TopicBankEx.iml" filepath="$PROJECT_DIR$/TopicBankEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/TopicBankEx/TopicBankEx-TopicBankEx.iml" filepath="$PROJECT_DIR$/TopicBankEx/TopicBankEx-TopicBankEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plsExam/plsExam.iml" filepath="$PROJECT_DIR$/plsExam/plsExam.iml" />
     </modules>
   </component>
 </project>

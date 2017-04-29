@@ -22,13 +22,13 @@ MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\admin\.
 MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\admin\.android\build-cache\cc95225d653951b9f7ff4e08c3df9f7d020c17b3\output\AndroidManifest.xml:20:5-44
 MERGED from [TopicBankEx:library:unspecified] D:\app\asproject\TopicBankEx\library\build\intermediates\bundles\default\AndroidManifest.xml:19:5-21:41
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\admin\.android\build-cache\0019246ac2287e2e200296acd066d0d5d98863f0\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\admin\.android\build-cache\3032251d031a29b40a85405b4987c12faeabad0e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\admin\.android\build-cache\e97736e59f67ca5e6de960f563e44edd179022fa\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\admin\.android\build-cache\e4f105b7d6c16d23adcacdab5b6c07f698228852\output\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\admin\.android\build-cache\d657ab2d2464fa95254148311e4c8f3ede82e8ac\output\AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\admin\.android\build-cache\aa83050e276dc4e06b515d67d01fae03ae70c854\output\AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\admin\.android\build-cache\ddc064642692eee282cc85ad7963d71f8662a90e\output\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\admin\.android\build-cache\178f4f71f93d16cc07b1835b75ab32abe0ec5721\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\admin\.android\build-cache\3032251d031a29b40a85405b4987c12faeabad0e\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\admin\.android\build-cache\e97736e59f67ca5e6de960f563e44edd179022fa\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\admin\.android\build-cache\ab597240ecc47a60fff210a1ee8e7de8e6211b55\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\admin\.android\build-cache\62ccbf0765dcfda805ad20a99830240a7bdb88d3\output\AndroidManifest.xml:23:9-59
@@ -50,13 +50,13 @@ MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\admin\.android\b
 MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\admin\.android\build-cache\cc95225d653951b9f7ff4e08c3df9f7d020c17b3\output\AndroidManifest.xml:26:5-20
 MERGED from [TopicBankEx:library:unspecified] D:\app\asproject\TopicBankEx\library\build\intermediates\bundles\default\AndroidManifest.xml:23:5-27:19
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\admin\.android\build-cache\0019246ac2287e2e200296acd066d0d5d98863f0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\admin\.android\build-cache\3032251d031a29b40a85405b4987c12faeabad0e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\admin\.android\build-cache\e97736e59f67ca5e6de960f563e44edd179022fa\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\admin\.android\build-cache\e4f105b7d6c16d23adcacdab5b6c07f698228852\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\admin\.android\build-cache\d657ab2d2464fa95254148311e4c8f3ede82e8ac\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\admin\.android\build-cache\aa83050e276dc4e06b515d67d01fae03ae70c854\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\admin\.android\build-cache\ddc064642692eee282cc85ad7963d71f8662a90e\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\admin\.android\build-cache\178f4f71f93d16cc07b1835b75ab32abe0ec5721\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\admin\.android\build-cache\3032251d031a29b40a85405b4987c12faeabad0e\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\admin\.android\build-cache\e97736e59f67ca5e6de960f563e44edd179022fa\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\admin\.android\build-cache\ab597240ecc47a60fff210a1ee8e7de8e6211b55\output\AndroidManifest.xml:29:5-20
 	android:label
 		ADDED from D:\app\asproject\TopicBankEx\TopicBankEx\src\main\AndroidManifest.xml:15:9-41
@@ -169,13 +169,13 @@ ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\admin\.android\bu
 MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\admin\.android\build-cache\3b2b054f88591cee330a72018daf44afbe87c8ae\output\AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\admin\.android\build-cache\cc95225d653951b9f7ff4e08c3df9f7d020c17b3\output\AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\admin\.android\build-cache\0019246ac2287e2e200296acd066d0d5d98863f0\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\admin\.android\build-cache\3032251d031a29b40a85405b4987c12faeabad0e\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\admin\.android\build-cache\e97736e59f67ca5e6de960f563e44edd179022fa\output\AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\admin\.android\build-cache\e4f105b7d6c16d23adcacdab5b6c07f698228852\output\AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\admin\.android\build-cache\d657ab2d2464fa95254148311e4c8f3ede82e8ac\output\AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\admin\.android\build-cache\aa83050e276dc4e06b515d67d01fae03ae70c854\output\AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\admin\.android\build-cache\ddc064642692eee282cc85ad7963d71f8662a90e\output\AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\admin\.android\build-cache\178f4f71f93d16cc07b1835b75ab32abe0ec5721\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\admin\.android\build-cache\3032251d031a29b40a85405b4987c12faeabad0e\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\admin\.android\build-cache\e97736e59f67ca5e6de960f563e44edd179022fa\output\AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\admin\.android\build-cache\ab597240ecc47a60fff210a1ee8e7de8e6211b55\output\AndroidManifest.xml:25:5-27:41
 	android:value
 		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\admin\.android\build-cache\62ccbf0765dcfda805ad20a99830240a7bdb88d3\output\AndroidManifest.xml:27:9-38

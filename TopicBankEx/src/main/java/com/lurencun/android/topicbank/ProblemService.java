@@ -10,12 +10,13 @@ import com.lurencun.android.topicbank.entity.CategoryEntity;
 import com.lurencun.android.topicbank.entity.HistoryEntity;
 import com.lurencun.android.topicbank.entity.TopicEntity;
 
-import org.json.JSONArray;
 import org.json.JSONException;
 
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
+
+import static com.lurencun.android.topicbank.AppSetting.getJsonToStringArray;
 
 public class ProblemService {
 	private ExamDBHelper dbHelper = null;
@@ -435,23 +436,7 @@ public static ProblemService getInstance(Context context){
 		c.close();
 		db.close();
 	 }
-	/** 
-	  * 将json数组转化为String型 
-	  * @param str 
-	  * @return 
-	  * @throws JSONException 
-	  */  
-	 public String[] getJsonToStringArray(String str) throws JSONException {  
-	     if(null == str||str.length()<=0){return new String[]{"此题录入问题没有答案选项"};  }
 
-		 JSONArray jsonArray = new JSONArray(str);
-	      String[] arr=new String[jsonArray.length()];
-	      for(int i=0;i<jsonArray.length();i++){
-	          arr[i]=jsonArray.getString(i);
-	          Log.e("TAG",arr[i]);
-	      }
-	      return arr;  
-	}
 
 	/**
 	 * 得到歷史考試数据列表

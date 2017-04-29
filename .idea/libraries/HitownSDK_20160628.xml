@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="HitownSDK_20160628">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/test/libs/HitownSDK_20160628.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plsExam/libs/HitownSDK_20160628.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

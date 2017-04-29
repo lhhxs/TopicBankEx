@@ -1,1 +1,1 @@
-include ':TopicBankEx', ':library', ':test', ':test'
+include ':TopicBankEx', ':library', ':plsExam'
