@@ -83,7 +83,7 @@ public class MainActivity extends BaseCompatActivity {
         });
     }
 
-    private void doRequest(){
+    private void doRequest(){ 
         HttpMethods.getInstance().getLogin(new ProgressSubscriber(mGetLoginOnNext, MainActivity.this), "lhhxs","lhhxs");
 
 }
