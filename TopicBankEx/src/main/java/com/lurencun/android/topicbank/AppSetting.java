@@ -164,7 +164,7 @@ public final class AppSetting {
 	/**
 	 * 将json数组转化为String型
 	 * @param str
-	 * @return
+	 * @return 
 	 * @throws JSONException
 	 */
 	public static String[] getJsonToStringArray(String str) throws JSONException {
